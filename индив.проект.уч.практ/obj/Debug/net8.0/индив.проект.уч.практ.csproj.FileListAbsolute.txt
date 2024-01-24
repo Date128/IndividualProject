@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Учебная практика\индив.проект.уч.практ\obj\Debug\net8.0\индив.проект.уч.практ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учебная практика\индив.проект.уч.практ\obj\Debug\net8.0\индив.проект.уч.практ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учебная практика\индив.проект.уч.практ\obj\Debug\net8.0\индив.проект.уч.практ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учебная практика\индив.проект.уч.практ\obj\Debug\net8.0\индив.проект.уч.практ.AssemblyInfo.cs
+C:\Users\User\Desktop\Учебная практика\индив.проект.уч.практ\obj\Debug\net8.0\индив.проект.уч.практ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учебная практика\индив.проект.уч.практ\obj\Debug\net8.0\индив.проект.уч.практ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Учебная практика\индив.проект.уч.практ\obj\Debug\net8.0\индив.проект.уч.практ.MvcApplicationPartsAssemblyInfo.cache
